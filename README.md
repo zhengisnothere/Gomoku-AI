@@ -1,1 +1,1 @@
-# Gomoku-AI-AI
+# Gomoku-AI / 五子棋AI
